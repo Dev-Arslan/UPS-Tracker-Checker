@@ -8,3 +8,4 @@ This tool can create like 100+ threads to do parallel tracking.
 
 This tool is developed to educational purpose only.
 For more datails and guidance , contact me on arslanahmeddev350@gmail.com
+Buy me a coffee or give start if you like my work . Thanks.
